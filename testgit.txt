@@ -1,2 +1,6 @@
 this is test txt
+<<<<<<< HEAD
 local add
+
+second add
+>>>>>>> 86fbe99dfcfad99dd872f9760de2616708093e4f
