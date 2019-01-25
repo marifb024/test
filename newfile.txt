@@ -1,7 +1,0 @@
-this is new file
-edit
-<<<<<<< HEAD
-merer local
-=======
-merge remote
->>>>>>> 4d9cd996a3b9b3b3b0af41e20038067e107af2c4
